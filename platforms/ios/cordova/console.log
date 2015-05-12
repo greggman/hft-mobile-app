@@ -1,0 +1,1166 @@
+2015-05-09 01:55:11.525 HappyFunTimes[50042:3057246] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/B6CE445B-5D86-4396-86B6-758BB5415A3F/Library/Cookies/Cookies.binarycookies
+2015-05-09 01:55:11.727 HappyFunTimes[50042:3057246] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 01:55:11.728 HappyFunTimes[50042:3057246] Multi-tasking -> Device: YES, App: YES
+2015-05-09 01:55:11.739 HappyFunTimes[50042:3057246] Unlimited access to network resources
+2015-05-09 01:55:11.746 HappyFunTimes[50042:3057246] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 01:55:12.674 HappyFunTimes[50042:3057246] Resetting plugins due to page load.
+2015-05-09 01:55:12.779 HappyFunTimes[50042:3057246] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/A8643D76-3F96-40CD-BF21-E83AF146CFEF/HappyFunTimes.app/www/index.html
+2015-05-09 02:03:40.401 HappyFunTimes[50362:3061959] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/759B87A2-10C8-48F3-9A54-9B4F5A840B20/Library/Cookies/Cookies.binarycookies
+2015-05-09 02:03:40.464 HappyFunTimes[50362:3061959] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 02:03:40.464 HappyFunTimes[50362:3061959] Multi-tasking -> Device: YES, App: YES
+2015-05-09 02:03:40.465 HappyFunTimes[50362:3061959] Unlimited access to network resources
+2015-05-09 02:03:40.467 HappyFunTimes[50362:3061959] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 02:03:40.657 HappyFunTimes[50362:3061959] Resetting plugins due to page load.
+2015-05-09 02:03:40.707 HappyFunTimes[50362:3061959] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/AAEF8942-2378-4634-9011-F286244BF7F0/HappyFunTimes.app/www/index.html
+2015-05-09 02:03:40.720 HappyFunTimes[50362:3061959] Resetting plugins due to page load.
+2015-05-09 02:03:40.738 HappyFunTimes[50362:3061959] Failed to load webpage with error: Could not connect to the server.
+2015-05-09 02:04:02.705 HappyFunTimes[50528:3063087] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/1BAA3C2E-565D-4D54-8A5F-E8F1F8716664/Library/Cookies/Cookies.binarycookies
+2015-05-09 02:04:02.771 HappyFunTimes[50528:3063087] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 02:04:02.772 HappyFunTimes[50528:3063087] Multi-tasking -> Device: YES, App: YES
+2015-05-09 02:04:02.773 HappyFunTimes[50528:3063087] Unlimited access to network resources
+2015-05-09 02:04:02.774 HappyFunTimes[50528:3063087] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 02:04:02.956 HappyFunTimes[50528:3063087] Resetting plugins due to page load.
+2015-05-09 02:04:02.997 HappyFunTimes[50528:3063087] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5AAD09A8-35CF-4381-B721-A6298AC32E06/HappyFunTimes.app/www/index.html
+2015-05-09 02:04:03.007 HappyFunTimes[50528:3063087] Resetting plugins due to page load.
+2015-05-09 02:04:03.048 HappyFunTimes[50528:3063087] Finished load of: http://localhost:8080/
+2015-05-09 02:04:21.344 HappyFunTimes[50692:3064021] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 02:04:21.345 HappyFunTimes[50692:3064021] Multi-tasking -> Device: YES, App: YES
+2015-05-09 02:04:21.346 HappyFunTimes[50692:3064021] Unlimited access to network resources
+2015-05-09 02:04:21.348 HappyFunTimes[50692:3064021] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 02:04:21.620 HappyFunTimes[50692:3064021] Resetting plugins due to page load.
+2015-05-09 02:04:21.692 HappyFunTimes[50692:3064021] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D89A64C7-CB7A-44FD-A788-755EF79DE25D/HappyFunTimes.app/www/index.html
+2015-05-09 02:04:21.706 HappyFunTimes[50692:3064021] Resetting plugins due to page load.
+2015-05-09 02:04:21.735 HappyFunTimes[50692:3064021] Finished load of: http://localhost:8080/
+2015-05-09 02:04:32.739 HappyFunTimes[50692:3064021] Resetting plugins due to page load.
+2015-05-09 02:04:32.771 HappyFunTimes[50692:3064021] Finished load of: http://192.168.64.123:18679/games/simple/index.html
+2015-05-09 15:03:34.364 HappyFunTimes[52049:3168794] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 15:03:34.365 HappyFunTimes[52049:3168794] Multi-tasking -> Device: YES, App: YES
+2015-05-09 15:03:34.366 HappyFunTimes[52049:3168794] Unlimited access to network resources
+2015-05-09 15:03:34.368 HappyFunTimes[52049:3168794] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 15:03:34.635 HappyFunTimes[52049:3168794] Resetting plugins due to page load.
+2015-05-09 15:03:34.689 HappyFunTimes[52049:3168794] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/6971D543-BC91-4D01-AD94-D33E665AED63/HappyFunTimes.app/www/index.html
+2015-05-09 15:03:34.701 HappyFunTimes[52049:3168794] Resetting plugins due to page load.
+2015-05-09 15:03:34.708 HappyFunTimes[52049:3168794] Failed to load webpage with error: Could not connect to the server.
+2015-05-09 15:03:47.371 HappyFunTimes[52213:3169775] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 15:03:47.371 HappyFunTimes[52213:3169775] Multi-tasking -> Device: YES, App: YES
+2015-05-09 15:03:47.372 HappyFunTimes[52213:3169775] Unlimited access to network resources
+2015-05-09 15:03:47.374 HappyFunTimes[52213:3169775] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 15:03:47.557 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:03:47.600 HappyFunTimes[52213:3169775] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/C0F1C346-3ED5-472E-B3F3-E12D98C0A6EC/HappyFunTimes.app/www/index.html
+2015-05-09 15:03:47.610 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:03:47.641 HappyFunTimes[52213:3169775] Finished load of: http://localhost:8080/
+2015-05-09 15:04:11.043 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:04:11.069 HappyFunTimes[52213:3169775] Finished load of: http://10.4.66.122:18679/games/jumpjump/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-05-09 15:04:49.037 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:04:49.059 HappyFunTimes[52213:3169775] Finished load of: http://10.4.66.122:18679/games/jumpjump/index.html
+2015-05-09 15:05:23.315 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:05:23.359 HappyFunTimes[52213:3169775] Finished load of: http://10.4.66.122:18679/games/(_Users_gregg_src_hft-paint)paint/index.html
+2015-05-09 15:05:32.592 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:05:32.635 HappyFunTimes[52213:3169775] Finished load of: http://10.4.66.122:18679/games/(_Users_gregg_src_hft-powpow)powpow/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-05-09 15:05:48.810 HappyFunTimes[52213:3169775] Resetting plugins due to page load.
+2015-05-09 15:05:48.843 HappyFunTimes[52213:3169775] Finished load of: http://10.4.66.122:18679/games/jumpjump/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-05-09 17:28:09.618 HappyFunTimes[52987:3233230] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 17:28:09.621 HappyFunTimes[52987:3233230] Multi-tasking -> Device: YES, App: YES
+2015-05-09 17:28:09.629 HappyFunTimes[52987:3233230] Unlimited access to network resources
+2015-05-09 17:28:09.635 HappyFunTimes[52987:3233230] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 17:28:10.056 HappyFunTimes[52987:3233230] Resetting plugins due to page load.
+2015-05-09 17:28:10.144 HappyFunTimes[52987:3233230] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/636BCA0B-6167-46AC-A5BE-E2A03E0CA2FC/HappyFunTimes.app/www/index.html
+2015-05-09 17:28:10.160 HappyFunTimes[52987:3233230] Resetting plugins due to page load.
+2015-05-09 17:28:10.179 HappyFunTimes[52987:3233230] Failed to load webpage with error: Could not connect to the server.
+2015-05-09 17:47:01.947 HappyFunTimes[53312:3243131] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 17:47:01.947 HappyFunTimes[53312:3243131] Multi-tasking -> Device: YES, App: YES
+2015-05-09 17:47:01.948 HappyFunTimes[53312:3243131] Unlimited access to network resources
+2015-05-09 17:47:01.950 HappyFunTimes[53312:3243131] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 17:47:02.108 HappyFunTimes[53312:3243131] Resetting plugins due to page load.
+2015-05-09 17:47:02.150 HappyFunTimes[53312:3243131] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/ACC0424E-6C02-4010-91FB-C842BA43A463/HappyFunTimes.app/www/index.html
+2015-05-09 17:47:02.161 HappyFunTimes[53312:3243131] Resetting plugins due to page load.
+2015-05-09 17:47:02.167 HappyFunTimes[53312:3243131] Failed to load webpage with error: Could not connect to the server.
+2015-05-09 18:03:56.202 HappyFunTimes[53604:3250574] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:03:56.202 HappyFunTimes[53604:3250574] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:03:56.203 HappyFunTimes[53604:3250574] Unlimited access to network resources
+2015-05-09 18:03:56.205 HappyFunTimes[53604:3250574] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:03:56.363 HappyFunTimes[53604:3250574] Resetting plugins due to page load.
+2015-05-09 18:03:56.392 HappyFunTimes[53604:3250574] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/0766841A-527A-4484-92C0-DB4F8B7BF5C1/HappyFunTimes.app/www/index.html
+2015-05-09 18:03:59.432 HappyFunTimes[53604:3250574] THREAD WARNING: ['YoikScreenOrientation'] took '20.181885' ms. Plugin should use a background thread.
+2015-05-09 18:25:40.214 HappyFunTimes[54070:3262552] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:25:40.217 HappyFunTimes[54070:3262552] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:25:40.227 HappyFunTimes[54070:3262552] Unlimited access to network resources
+2015-05-09 18:25:40.235 HappyFunTimes[54070:3262552] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:25:40.658 HappyFunTimes[54070:3262552] Resetting plugins due to page load.
+2015-05-09 18:25:40.729 HappyFunTimes[54070:3262552] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/F6F3F2FF-AC1D-4A5A-9D21-774D83D22D18/HappyFunTimes.app/www/index.html
+2015-05-09 18:27:42.341 HappyFunTimes[54377:3264948] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:27:42.341 HappyFunTimes[54377:3264948] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:27:42.342 HappyFunTimes[54377:3264948] Unlimited access to network resources
+2015-05-09 18:27:42.344 HappyFunTimes[54377:3264948] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:27:42.495 HappyFunTimes[54377:3264948] Resetting plugins due to page load.
+2015-05-09 18:27:42.525 HappyFunTimes[54377:3264948] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5410FD1D-2FAF-45BC-B093-D285E2EE8CE6/HappyFunTimes.app/www/index.html
+2015-05-09 18:27:45.564 HappyFunTimes[54377:3264948] THREAD WARNING: ['YoikScreenOrientation'] took '18.592773' ms. Plugin should use a background thread.
+2015-05-09 18:27:51.553 HappyFunTimes[54377:3264948] THREAD WARNING: ['YoikScreenOrientation'] took '11.170654' ms. Plugin should use a background thread.
+2015-05-09 18:43:57.958 HappyFunTimes[54797:3274412] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:43:57.958 HappyFunTimes[54797:3274412] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:43:57.959 HappyFunTimes[54797:3274412] Unlimited access to network resources
+2015-05-09 18:43:57.961 HappyFunTimes[54797:3274412] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:43:58.117 HappyFunTimes[54797:3274412] Resetting plugins due to page load.
+2015-05-09 18:43:58.146 HappyFunTimes[54797:3274412] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/60B51DD3-D62D-4FDE-B284-DAD8FAE66246/HappyFunTimes.app/www/index.html
+2015-05-09 18:43:58.161 HappyFunTimes[54797:3274412] Resetting plugins due to page load.
+2015-05-09 18:43:58.206 HappyFunTimes[54797:3274412] Finished load of: http://localhost:18679/
+2015-05-09 18:53:56.908 HappyFunTimes[55116:3279487] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:53:56.909 HappyFunTimes[55116:3279487] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:53:56.910 HappyFunTimes[55116:3279487] Unlimited access to network resources
+2015-05-09 18:53:56.911 HappyFunTimes[55116:3279487] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:53:57.059 HappyFunTimes[55116:3279487] Resetting plugins due to page load.
+2015-05-09 18:53:57.087 HappyFunTimes[55116:3279487] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/79AB2A8A-3855-4CCD-A341-3842E6980143/HappyFunTimes.app/www/index.html
+2015-05-09 18:56:33.189 HappyFunTimes[55251:3280781] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 18:56:33.189 HappyFunTimes[55251:3280781] Multi-tasking -> Device: YES, App: YES
+2015-05-09 18:56:33.190 HappyFunTimes[55251:3280781] Unlimited access to network resources
+2015-05-09 18:56:33.192 HappyFunTimes[55251:3280781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 18:56:33.340 HappyFunTimes[55251:3280781] Resetting plugins due to page load.
+2015-05-09 18:56:33.370 HappyFunTimes[55251:3280781] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/1490D1DE-946E-43D9-9BC0-466F98725664/HappyFunTimes.app/www/index.html
+2015-05-10 01:10:05.144 HappyFunTimes[56603:3315656] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:10:05.148 HappyFunTimes[56603:3315656] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:10:05.158 HappyFunTimes[56603:3315656] Unlimited access to network resources
+2015-05-10 01:10:05.165 HappyFunTimes[56603:3315656] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:10:05.617 HappyFunTimes[56603:3315656] Resetting plugins due to page load.
+2015-05-10 01:10:05.689 HappyFunTimes[56603:3315656] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/A46244A5-0A67-41D8-930C-83319D89D856/HappyFunTimes.app/www/index.html
+2015-05-10 01:10:05.712 HappyFunTimes[56603:3315656] Resetting plugins due to page load.
+2015-05-10 01:10:05.750 HappyFunTimes[56603:3315656] Finished load of: http://localhost:18679/test.html?cordovaurl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2FA46244A5-0A67-41D8-930C-83319D89D856%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-05-10 01:14:17.194 HappyFunTimes[56798:3318696] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:14:17.194 HappyFunTimes[56798:3318696] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:14:17.195 HappyFunTimes[56798:3318696] Unlimited access to network resources
+2015-05-10 01:14:17.197 HappyFunTimes[56798:3318696] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:14:17.348 HappyFunTimes[56798:3318696] Resetting plugins due to page load.
+2015-05-10 01:14:17.377 HappyFunTimes[56798:3318696] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/6345A0FF-E1FA-40A5-B578-F06EF7DEDFF0/HappyFunTimes.app/www/index.html
+2015-05-10 01:14:17.391 HappyFunTimes[56798:3318696] Resetting plugins due to page load.
+2015-05-10 01:14:17.404 HappyFunTimes[56798:3318696] Finished load of: http://localhost:18679/test.html?cordovaurl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2F6345A0FF-E1FA-40A5-B578-F06EF7DEDFF0%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-05-10 01:17:51.524 HappyFunTimes[56978:3320664] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:17:51.524 HappyFunTimes[56978:3320664] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:17:51.525 HappyFunTimes[56978:3320664] Unlimited access to network resources
+2015-05-10 01:17:51.527 HappyFunTimes[56978:3320664] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:17:51.682 HappyFunTimes[56978:3320664] Resetting plugins due to page load.
+2015-05-10 01:17:51.712 HappyFunTimes[56978:3320664] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/1C6AECE3-F0F2-4CFB-A0D0-A9A016B7EBBF/HappyFunTimes.app/www/index.html
+2015-05-10 01:17:51.725 HappyFunTimes[56978:3320664] Resetting plugins due to page load.
+2015-05-10 01:17:51.737 HappyFunTimes[56978:3320664] Finished load of: http://localhost:18679/test.html?cordovaurl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2F1C6AECE3-F0F2-4CFB-A0D0-A9A016B7EBBF%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-05-10 01:20:19.613 HappyFunTimes[56978:3321491] Terminating since there is no system app.
+2015-05-10 01:20:27.878 HappyFunTimes[57158:3322495] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:20:27.879 HappyFunTimes[57158:3322495] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:20:27.880 HappyFunTimes[57158:3322495] Unlimited access to network resources
+2015-05-10 01:20:27.881 HappyFunTimes[57158:3322495] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:20:28.031 HappyFunTimes[57158:3322495] Resetting plugins due to page load.
+2015-05-10 01:20:28.061 HappyFunTimes[57158:3322495] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/94BD1486-C2F0-40AF-AA4E-DAB8AD0C3A5E/HappyFunTimes.app/www/index.html
+2015-05-10 01:20:28.075 HappyFunTimes[57158:3322495] Resetting plugins due to page load.
+2015-05-10 01:20:28.087 HappyFunTimes[57158:3322495] Finished load of: http://localhost:18679/test.html?cordovaurl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2F94BD1486-C2F0-40AF-AA4E-DAB8AD0C3A5E%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-05-10 01:20:50.553 HappyFunTimes[57332:3323485] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:20:50.553 HappyFunTimes[57332:3323485] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:20:50.554 HappyFunTimes[57332:3323485] Unlimited access to network resources
+2015-05-10 01:20:50.556 HappyFunTimes[57332:3323485] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:20:50.709 HappyFunTimes[57332:3323485] Resetting plugins due to page load.
+2015-05-10 01:20:50.739 HappyFunTimes[57332:3323485] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DA27D5F4-1399-403B-AE35-C108B82B39E4/HappyFunTimes.app/www/index.html
+2015-05-10 01:20:50.752 HappyFunTimes[57332:3323485] Resetting plugins due to page load.
+2015-05-10 01:20:50.765 HappyFunTimes[57332:3323485] Finished load of: http://localhost:18679/test.html?cordovaurl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2FDA27D5F4-1399-403B-AE35-C108B82B39E4%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-05-10 01:44:12.006 HappyFunTimes[57775:3333868] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:44:12.007 HappyFunTimes[57775:3333868] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:44:12.008 HappyFunTimes[57775:3333868] Unlimited access to network resources
+2015-05-10 01:44:12.009 HappyFunTimes[57775:3333868] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:44:12.165 HappyFunTimes[57775:3333868] Resetting plugins due to page load.
+2015-05-10 01:44:12.197 HappyFunTimes[57775:3333868] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/C571DC75-8A1E-4973-BD8A-7B5D2AAD8091/HappyFunTimes.app/www/index.html
+2015-05-10 01:44:12.212 HappyFunTimes[57775:3333868] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/C571DC75-8A1E-4973-BD8A-7B5D2AAD8091/HappyFunTimes.app/www/
+2015-05-10 01:44:12:212 HappyFunTimes[57775:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a950d40 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-10 01:44:12.212 HappyFunTimes[57775:3333868] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a950d40 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-10 01:44:12.214 HappyFunTimes[57775:3333868] Resetting plugins due to page load.
+2015-05-10 01:44:12.228 HappyFunTimes[57775:3333868] Finished load of: http://localhost:18679/test.html?cordovaurl=Error%20Domain%3DNSPOSIXErrorDomain%20Code%3D48%20%22Address%20already%20in%20use%22%20UserInfo%3D0x7a950d40%20%7BNSLocalizedFailureReason%3DError%20in%20bind()%20function%2C%20NSLocalizedDescription%3DAddress%20already%20in%20use%7D
+2015-05-10 01:45:32.284 HappyFunTimes[57775:3334321] Terminating since there is no system app.
+2015-05-10 01:45:45.827 HappyFunTimes[58084:3335952] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:45:45.828 HappyFunTimes[58084:3335952] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:45:45.828 HappyFunTimes[58084:3335952] Unlimited access to network resources
+2015-05-10 01:45:45.830 HappyFunTimes[58084:3335952] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:45:45.984 HappyFunTimes[58084:3335952] Resetting plugins due to page load.
+2015-05-10 01:45:46.015 HappyFunTimes[58084:3335952] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/9733C93C-24B3-41B8-B558-DD7B9060A5AF/HappyFunTimes.app/www/index.html
+2015-05-10 01:45:46.030 HappyFunTimes[58084:3335952] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/9733C93C-24B3-41B8-B558-DD7B9060A5AF/HappyFunTimes.app/www/
+2015-05-10 01:45:46:030 HappyFunTimes[58084:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-10 01:45:46.030 HappyFunTimes[58084:3335952] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "192.168.64.113";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-10 01:45:46.031 HappyFunTimes[58084:3335952] Started httpd on port 18680
+2015-05-10 01:45:46.032 HappyFunTimes[58084:3335952] Resetting plugins due to page load.
+2015-05-10 01:45:46.045 HappyFunTimes[58084:3335952] Finished load of: http://localhost:18679/test.html?cordovaurl=http%3A%2F%2F192.168.64.113%3A18680%2F
+2015-05-10 01:54:44.861 HappyFunTimes[58420:3340781] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 01:54:44.862 HappyFunTimes[58420:3340781] Multi-tasking -> Device: YES, App: YES
+2015-05-10 01:54:44.863 HappyFunTimes[58420:3340781] Unlimited access to network resources
+2015-05-10 01:54:44.864 HappyFunTimes[58420:3340781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 01:54:45.020 HappyFunTimes[58420:3340781] Resetting plugins due to page load.
+2015-05-10 01:54:45.048 HappyFunTimes[58420:3340781] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2AB85180-9BFD-478E-8952-C2CF2186D0E9/HappyFunTimes.app/www/index.html
+2015-05-10 01:54:45.064 HappyFunTimes[58420:3340781] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2AB85180-9BFD-478E-8952-C2CF2186D0E9/HappyFunTimes.app/www/
+2015-05-10 01:54:45.064 HappyFunTimes[58420:3340781] Started httpd on port 18679
+2015-05-10 01:54:45:064 HappyFunTimes[58420:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 01:54:45.066 HappyFunTimes[58420:3340781] Resetting plugins due to page load.
+2015-05-10 01:54:45.082 HappyFunTimes[58420:3340781] Finished load of: http://localhost:18679/test.html?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 01:54:52.097 HappyFunTimes[58420:3340781] THREAD WARNING: ['YoikScreenOrientation'] took '14.491211' ms. Plugin should use a background thread.
+2015-05-10 16:57:40.078 HappyFunTimes[60823:3497487] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 16:57:40.081 HappyFunTimes[60823:3497487] Multi-tasking -> Device: YES, App: YES
+2015-05-10 16:57:40.089 HappyFunTimes[60823:3497487] Unlimited access to network resources
+2015-05-10 16:57:40.096 HappyFunTimes[60823:3497487] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 16:57:40.504 HappyFunTimes[60823:3497487] Resetting plugins due to page load.
+2015-05-10 16:57:40.583 HappyFunTimes[60823:3497487] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/37918AA6-5F75-4D47-A836-7DDB1F650905/HappyFunTimes.app/www/index.html
+2015-05-10 16:57:40.612 HappyFunTimes[60823:3497487] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/37918AA6-5F75-4D47-A836-7DDB1F650905/HappyFunTimes.app/www/
+2015-05-10 16:57:40.613 HappyFunTimes[60823:3497487] Started httpd on port 18679
+2015-05-10 16:57:40:613 HappyFunTimes[60823:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 16:57:40.616 HappyFunTimes[60823:3497487] Resetting plugins due to page load.
+2015-05-10 16:57:40.638 HappyFunTimes[60823:3497487] Failed to load webpage with error: Could not connect to the server.
+2015-05-10 16:58:34.515 HappyFunTimes[61009:3498762] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 16:58:34.516 HappyFunTimes[61009:3498762] Multi-tasking -> Device: YES, App: YES
+2015-05-10 16:58:34.517 HappyFunTimes[61009:3498762] Unlimited access to network resources
+2015-05-10 16:58:34.518 HappyFunTimes[61009:3498762] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 16:58:34.672 HappyFunTimes[61009:3498762] Resetting plugins due to page load.
+2015-05-10 16:58:34.710 HappyFunTimes[61009:3498762] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/9B022626-3E5E-4FDA-905E-483CDAB33939/HappyFunTimes.app/www/index.html
+2015-05-10 16:58:34.726 HappyFunTimes[61009:3498762] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/9B022626-3E5E-4FDA-905E-483CDAB33939/HappyFunTimes.app/www/
+2015-05-10 16:58:34.727 HappyFunTimes[61009:3498762] Started httpd on port 18679
+2015-05-10 16:58:34:727 HappyFunTimes[61009:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 16:58:34.729 HappyFunTimes[61009:3498762] Resetting plugins due to page load.
+2015-05-10 16:58:34.759 HappyFunTimes[61009:3498762] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 16:59:30.491 HappyFunTimes[61009:3498762] Resetting plugins due to page load.
+2015-05-10 16:59:30.717 HappyFunTimes[61009:3498762] Failed to load webpage with error: The network connection was lost.
+2015-05-10 16:59:45.134 HappyFunTimes[61195:3500765] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 16:59:45.135 HappyFunTimes[61195:3500765] Multi-tasking -> Device: YES, App: YES
+2015-05-10 16:59:45.135 HappyFunTimes[61195:3500765] Unlimited access to network resources
+2015-05-10 16:59:45.137 HappyFunTimes[61195:3500765] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 16:59:45.295 HappyFunTimes[61195:3500765] Resetting plugins due to page load.
+2015-05-10 16:59:45.324 HappyFunTimes[61195:3500765] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2BC02A53-1182-4723-89D6-F4CD37618AA3/HappyFunTimes.app/www/index.html
+2015-05-10 16:59:45.340 HappyFunTimes[61195:3500765] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2BC02A53-1182-4723-89D6-F4CD37618AA3/HappyFunTimes.app/www/
+2015-05-10 16:59:45.340 HappyFunTimes[61195:3500765] Started httpd on port 18679
+2015-05-10 16:59:45:340 HappyFunTimes[61195:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 16:59:45.342 HappyFunTimes[61195:3500765] Resetting plugins due to page load.
+2015-05-10 16:59:45.363 HappyFunTimes[61195:3500765] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:00:02.196 HappyFunTimes[61195:3500765] Resetting plugins due to page load.
+2015-05-10 17:00:02.214 HappyFunTimes[61195:3500765] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:00:02.261 HappyFunTimes[61195:3500765] Resetting plugins due to page load.
+2015-05-10 17:00:02.308 HappyFunTimes[61195:3500765] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:00:39.388 HappyFunTimes[61374:3502116] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:00:39.389 HappyFunTimes[61374:3502116] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:00:39.390 HappyFunTimes[61374:3502116] Unlimited access to network resources
+2015-05-10 17:00:39.391 HappyFunTimes[61374:3502116] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:00:39.544 HappyFunTimes[61374:3502116] Resetting plugins due to page load.
+2015-05-10 17:00:39.573 HappyFunTimes[61374:3502116] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/18E78627-DBD2-4CE3-864B-8D05F5AD8B42/HappyFunTimes.app/www/index.html
+2015-05-10 17:00:39.589 HappyFunTimes[61374:3502116] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/18E78627-DBD2-4CE3-864B-8D05F5AD8B42/HappyFunTimes.app/www/
+2015-05-10 17:00:39.589 HappyFunTimes[61374:3502116] Started httpd on port 18679
+2015-05-10 17:00:39:589 HappyFunTimes[61374:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:00:39.591 HappyFunTimes[61374:3502116] Resetting plugins due to page load.
+2015-05-10 17:00:39.609 HappyFunTimes[61374:3502116] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:01:06.312 HappyFunTimes[61374:3502116] Resetting plugins due to page load.
+2015-05-10 17:01:06.335 HappyFunTimes[61374:3502116] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:01:06.396 HappyFunTimes[61374:3502116] Resetting plugins due to page load.
+2015-05-10 17:01:06.443 HappyFunTimes[61374:3502116] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:02:43.639 HappyFunTimes[61554:3504211] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:02:43.640 HappyFunTimes[61554:3504211] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:02:43.641 HappyFunTimes[61554:3504211] Unlimited access to network resources
+2015-05-10 17:02:43.642 HappyFunTimes[61554:3504211] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:02:43.804 HappyFunTimes[61554:3504211] Resetting plugins due to page load.
+2015-05-10 17:02:43.834 HappyFunTimes[61554:3504211] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5A6B6CBC-CC43-4D6E-B41E-790C0A006E71/HappyFunTimes.app/www/index.html
+2015-05-10 17:02:43.848 HappyFunTimes[61554:3504211] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5A6B6CBC-CC43-4D6E-B41E-790C0A006E71/HappyFunTimes.app/www/
+2015-05-10 17:02:43.849 HappyFunTimes[61554:3504211] Started httpd on port 18679
+2015-05-10 17:02:43:848 HappyFunTimes[61554:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:02:43.850 HappyFunTimes[61554:3504211] Resetting plugins due to page load.
+2015-05-10 17:02:43.867 HappyFunTimes[61554:3504211] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:02:47.055 HappyFunTimes[61554:3504211] Resetting plugins due to page load.
+2015-05-10 17:02:47.071 HappyFunTimes[61554:3504211] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:02:47.108 HappyFunTimes[61554:3504211] Resetting plugins due to page load.
+2015-05-10 17:02:47.131 HappyFunTimes[61554:3504211] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:06:10.240 HappyFunTimes[61749:3506798] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:06:10.240 HappyFunTimes[61749:3506798] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:06:10.241 HappyFunTimes[61749:3506798] Unlimited access to network resources
+2015-05-10 17:06:10.243 HappyFunTimes[61749:3506798] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:06:10.400 HappyFunTimes[61749:3506798] Resetting plugins due to page load.
+2015-05-10 17:06:10.431 HappyFunTimes[61749:3506798] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/E15776D7-BEFD-49FB-8294-565C237985DF/HappyFunTimes.app/www/index.html
+2015-05-10 17:06:10.450 HappyFunTimes[61749:3506798] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/E15776D7-BEFD-49FB-8294-565C237985DF/HappyFunTimes.app/www/
+2015-05-10 17:06:10.450 HappyFunTimes[61749:3506798] Started httpd on port 18679
+2015-05-10 17:06:10:450 HappyFunTimes[61749:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:06:10.452 HappyFunTimes[61749:3506798] Resetting plugins due to page load.
+2015-05-10 17:06:10.478 HappyFunTimes[61749:3506798] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:11:56.369 HappyFunTimes[61951:3509942] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:11:56.370 HappyFunTimes[61951:3509942] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:11:56.371 HappyFunTimes[61951:3509942] Unlimited access to network resources
+2015-05-10 17:11:56.372 HappyFunTimes[61951:3509942] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:11:56.531 HappyFunTimes[61951:3509942] Resetting plugins due to page load.
+2015-05-10 17:11:56.561 HappyFunTimes[61951:3509942] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/78A1DDA4-0FC7-4BD9-A61D-99035EDAE481/HappyFunTimes.app/www/index.html
+2015-05-10 17:11:56.577 HappyFunTimes[61951:3509942] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/78A1DDA4-0FC7-4BD9-A61D-99035EDAE481/HappyFunTimes.app/www/
+2015-05-10 17:11:56.577 HappyFunTimes[61951:3509942] Started httpd on port 18679
+2015-05-10 17:11:56:577 HappyFunTimes[61951:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:11:56.579 HappyFunTimes[61951:3509942] Resetting plugins due to page load.
+2015-05-10 17:11:56.605 HappyFunTimes[61951:3509942] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:14:20.381 HappyFunTimes[61951:3509942] Resetting plugins due to page load.
+2015-05-10 17:14:20.401 HappyFunTimes[61951:3509942] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:14:20.463 HappyFunTimes[61951:3509942] Resetting plugins due to page load.
+2015-05-10 17:14:20.507 HappyFunTimes[61951:3509942] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:24:14.584 HappyFunTimes[62160:3515400] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:24:14.585 HappyFunTimes[62160:3515400] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:24:14.586 HappyFunTimes[62160:3515400] Unlimited access to network resources
+2015-05-10 17:24:14.587 HappyFunTimes[62160:3515400] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:24:14.746 HappyFunTimes[62160:3515400] Resetting plugins due to page load.
+2015-05-10 17:24:14.776 HappyFunTimes[62160:3515400] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/C393FBBF-B7D0-4437-B099-00825897AFCF/HappyFunTimes.app/www/index.html
+2015-05-10 17:24:14.791 HappyFunTimes[62160:3515400] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/C393FBBF-B7D0-4437-B099-00825897AFCF/HappyFunTimes.app/www/
+2015-05-10 17:24:14.791 HappyFunTimes[62160:3515400] Started httpd on port 18679
+2015-05-10 17:24:14:791 HappyFunTimes[62160:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:24:14.793 HappyFunTimes[62160:3515400] Resetting plugins due to page load.
+2015-05-10 17:24:14.819 HappyFunTimes[62160:3515400] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:26:26.255 HappyFunTimes[62358:3517846] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:26:26.255 HappyFunTimes[62358:3517846] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:26:26.256 HappyFunTimes[62358:3517846] Unlimited access to network resources
+2015-05-10 17:26:26.258 HappyFunTimes[62358:3517846] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:26:26.421 HappyFunTimes[62358:3517846] Resetting plugins due to page load.
+2015-05-10 17:26:26.451 HappyFunTimes[62358:3517846] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/49ED26D2-8CCF-42C1-90EA-B19446435EF7/HappyFunTimes.app/www/index.html
+2015-05-10 17:26:26.468 HappyFunTimes[62358:3517846] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/49ED26D2-8CCF-42C1-90EA-B19446435EF7/HappyFunTimes.app/www/
+2015-05-10 17:26:26.469 HappyFunTimes[62358:3517846] Started httpd on port 18679
+2015-05-10 17:26:26:469 HappyFunTimes[62358:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:26:26.471 HappyFunTimes[62358:3517846] Resetting plugins due to page load.
+2015-05-10 17:26:26.492 HappyFunTimes[62358:3517846] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:26:28.887 HappyFunTimes[62358:3517846] Resetting plugins due to page load.
+2015-05-10 17:26:28.903 HappyFunTimes[62358:3517846] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaUrl=undefined
+2015-05-10 17:26:33.118 HappyFunTimes[62358:3517846] Resetting plugins due to page load.
+2015-05-10 17:26:33.134 HappyFunTimes[62358:3517846] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:26:33.169 HappyFunTimes[62358:3517846] Resetting plugins due to page load.
+2015-05-10 17:26:33.191 HappyFunTimes[62358:3517846] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:28:14.011 HappyFunTimes[62536:3519655] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:28:14.011 HappyFunTimes[62536:3519655] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:28:14.012 HappyFunTimes[62536:3519655] Unlimited access to network resources
+2015-05-10 17:28:14.014 HappyFunTimes[62536:3519655] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:28:14.176 HappyFunTimes[62536:3519655] Resetting plugins due to page load.
+2015-05-10 17:28:14.207 HappyFunTimes[62536:3519655] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/F5C83CC0-D17B-415F-BE65-881A9CFC1751/HappyFunTimes.app/www/index.html
+2015-05-10 17:28:14.223 HappyFunTimes[62536:3519655] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/F5C83CC0-D17B-415F-BE65-881A9CFC1751/HappyFunTimes.app/www/
+2015-05-10 17:28:14.224 HappyFunTimes[62536:3519655] Started httpd on port 18679
+2015-05-10 17:28:14:223 HappyFunTimes[62536:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:28:14.226 HappyFunTimes[62536:3519655] Resetting plugins due to page load.
+2015-05-10 17:28:14.244 HappyFunTimes[62536:3519655] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:28:16.993 HappyFunTimes[62536:3519655] Resetting plugins due to page load.
+2015-05-10 17:28:17.009 HappyFunTimes[62536:3519655] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaUrl=undefined
+2015-05-10 17:28:17.531 HappyFunTimes[62536:3519655] Resetting plugins due to page load.
+2015-05-10 17:28:17.552 HappyFunTimes[62536:3519655] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:28:17.590 HappyFunTimes[62536:3519655] Resetting plugins due to page load.
+2015-05-10 17:28:17.616 HappyFunTimes[62536:3519655] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:40:19.917 HappyFunTimes[62773:3525800] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:40:19.918 HappyFunTimes[62773:3525800] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:40:19.919 HappyFunTimes[62773:3525800] Unlimited access to network resources
+2015-05-10 17:40:19.920 HappyFunTimes[62773:3525800] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:40:20.068 HappyFunTimes[62773:3525800] Resetting plugins due to page load.
+2015-05-10 17:40:20.096 HappyFunTimes[62773:3525800] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/160D799F-C003-486C-B2EA-3761FDC49629/HappyFunTimes.app/www/index.html
+2015-05-10 17:40:20.110 HappyFunTimes[62773:3525800] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/160D799F-C003-486C-B2EA-3761FDC49629/HappyFunTimes.app/www/
+2015-05-10 17:40:20.111 HappyFunTimes[62773:3525800] Started httpd on port 18679
+2015-05-10 17:40:20:110 HappyFunTimes[62773:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:40:20.112 HappyFunTimes[62773:3525800] Resetting plugins due to page load.
+2015-05-10 17:40:20.138 HappyFunTimes[62773:3525800] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:41:51.548 HappyFunTimes[62773:3525800] Resetting plugins due to page load.
+2015-05-10 17:41:51.569 HappyFunTimes[62773:3525800] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaUrl=undefined
+2015-05-10 17:42:35.593 HappyFunTimes[62962:3528003] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:42:35.594 HappyFunTimes[62962:3528003] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:42:35.595 HappyFunTimes[62962:3528003] Unlimited access to network resources
+2015-05-10 17:42:35.597 HappyFunTimes[62962:3528003] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:42:35.759 HappyFunTimes[62962:3528003] Resetting plugins due to page load.
+2015-05-10 17:42:35.788 HappyFunTimes[62962:3528003] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/39B8009B-D7C2-4532-9F7C-B290B5E752E5/HappyFunTimes.app/www/index.html
+2015-05-10 17:42:35.808 HappyFunTimes[62962:3528003] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/39B8009B-D7C2-4532-9F7C-B290B5E752E5/HappyFunTimes.app/www/
+2015-05-10 17:42:35.808 HappyFunTimes[62962:3528003] Started httpd on port 18679
+2015-05-10 17:42:35:808 HappyFunTimes[62962:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:42:35.810 HappyFunTimes[62962:3528003] Resetting plugins due to page load.
+2015-05-10 17:42:35.843 HappyFunTimes[62962:3528003] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:43:43.430 HappyFunTimes[62962:3528003] Resetting plugins due to page load.
+2015-05-10 17:43:43.444 HappyFunTimes[62962:3528003] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaUrl=undefined
+2015-05-10 17:45:35.021 HappyFunTimes[63145:3530629] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:45:35.021 HappyFunTimes[63145:3530629] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:45:35.022 HappyFunTimes[63145:3530629] Unlimited access to network resources
+2015-05-10 17:45:35.024 HappyFunTimes[63145:3530629] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:45:35.177 HappyFunTimes[63145:3530629] Resetting plugins due to page load.
+2015-05-10 17:45:35.207 HappyFunTimes[63145:3530629] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/08FFEE13-12C5-40C2-BA35-2AEB46F7E3CB/HappyFunTimes.app/www/index.html
+2015-05-10 17:45:35.223 HappyFunTimes[63145:3530629] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/08FFEE13-12C5-40C2-BA35-2AEB46F7E3CB/HappyFunTimes.app/www/
+2015-05-10 17:45:35.224 HappyFunTimes[63145:3530629] Started httpd on port 18679
+2015-05-10 17:45:35:224 HappyFunTimes[63145:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:45:35.226 HappyFunTimes[63145:3530629] Resetting plugins due to page load.
+2015-05-10 17:45:35.242 HappyFunTimes[63145:3530629] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:48:37.057 HappyFunTimes[63335:3532712] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:48:37.058 HappyFunTimes[63335:3532712] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:48:37.059 HappyFunTimes[63335:3532712] Unlimited access to network resources
+2015-05-10 17:48:37.060 HappyFunTimes[63335:3532712] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:48:37.212 HappyFunTimes[63335:3532712] Resetting plugins due to page load.
+2015-05-10 17:48:37.241 HappyFunTimes[63335:3532712] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/39921782-9359-408B-A128-D6DAF031B06A/HappyFunTimes.app/www/index.html
+2015-05-10 17:48:37.255 HappyFunTimes[63335:3532712] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/39921782-9359-408B-A128-D6DAF031B06A/HappyFunTimes.app/www/
+2015-05-10 17:48:37.256 HappyFunTimes[63335:3532712] Started httpd on port 18679
+2015-05-10 17:48:37:256 HappyFunTimes[63335:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:48:37.257 HappyFunTimes[63335:3532712] Resetting plugins due to page load.
+2015-05-10 17:48:37.283 HappyFunTimes[63335:3532712] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:48:40.900 HappyFunTimes[63335:3532712] Resetting plugins due to page load.
+2015-05-10 17:48:40.916 HappyFunTimes[63335:3532712] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:48:41.437 HappyFunTimes[63335:3532712] Resetting plugins due to page load.
+2015-05-10 17:48:41.454 HappyFunTimes[63335:3532712] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:48:41.493 HappyFunTimes[63335:3532712] Resetting plugins due to page load.
+2015-05-10 17:48:41.516 HappyFunTimes[63335:3532712] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:51:28.024 HappyFunTimes[63521:3534902] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:51:28.024 HappyFunTimes[63521:3534902] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:51:28.025 HappyFunTimes[63521:3534902] Unlimited access to network resources
+2015-05-10 17:51:28.027 HappyFunTimes[63521:3534902] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:51:28.186 HappyFunTimes[63521:3534902] Resetting plugins due to page load.
+2015-05-10 17:51:28.214 HappyFunTimes[63521:3534902] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/06DD2DBF-DC57-4F09-A9EB-6A9CEFD6E054/HappyFunTimes.app/www/index.html
+2015-05-10 17:51:28.228 HappyFunTimes[63521:3534902] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/06DD2DBF-DC57-4F09-A9EB-6A9CEFD6E054/HappyFunTimes.app/www/
+2015-05-10 17:51:28.229 HappyFunTimes[63521:3534902] Started httpd on port 18679
+2015-05-10 17:51:28:229 HappyFunTimes[63521:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:51:28.231 HappyFunTimes[63521:3534902] Resetting plugins due to page load.
+2015-05-10 17:51:28.249 HappyFunTimes[63521:3534902] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:51:31.491 HappyFunTimes[63521:3534902] Resetting plugins due to page load.
+2015-05-10 17:51:31.508 HappyFunTimes[63521:3534902] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:51:32.029 HappyFunTimes[63521:3534902] Resetting plugins due to page load.
+2015-05-10 17:51:32.044 HappyFunTimes[63521:3534902] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:51:32.088 HappyFunTimes[63521:3534902] Resetting plugins due to page load.
+2015-05-10 17:51:32.110 HappyFunTimes[63521:3534902] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:52:04.648 HappyFunTimes[63700:3536037] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:52:04.649 HappyFunTimes[63700:3536037] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:52:04.649 HappyFunTimes[63700:3536037] Unlimited access to network resources
+2015-05-10 17:52:04.651 HappyFunTimes[63700:3536037] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:52:04.802 HappyFunTimes[63700:3536037] Resetting plugins due to page load.
+2015-05-10 17:52:04.832 HappyFunTimes[63700:3536037] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/CCB02967-E152-4B35-B62A-FD1385863003/HappyFunTimes.app/www/index.html
+2015-05-10 17:52:04.848 HappyFunTimes[63700:3536037] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/CCB02967-E152-4B35-B62A-FD1385863003/HappyFunTimes.app/www/
+2015-05-10 17:52:04.848 HappyFunTimes[63700:3536037] Started httpd on port 18679
+2015-05-10 17:52:04:848 HappyFunTimes[63700:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:52:04.851 HappyFunTimes[63700:3536037] Resetting plugins due to page load.
+2015-05-10 17:52:04.867 HappyFunTimes[63700:3536037] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:52:06.866 HappyFunTimes[63700:3536037] Resetting plugins due to page load.
+2015-05-10 17:52:06.883 HappyFunTimes[63700:3536037] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:52:07.404 HappyFunTimes[63700:3536037] Resetting plugins due to page load.
+2015-05-10 17:52:07.420 HappyFunTimes[63700:3536037] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:52:07.459 HappyFunTimes[63700:3536037] Resetting plugins due to page load.
+2015-05-10 17:52:07.483 HappyFunTimes[63700:3536037] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:53:03.718 HappyFunTimes[63877:3537296] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 17:53:03.719 HappyFunTimes[63877:3537296] Multi-tasking -> Device: YES, App: YES
+2015-05-10 17:53:03.720 HappyFunTimes[63877:3537296] Unlimited access to network resources
+2015-05-10 17:53:03.721 HappyFunTimes[63877:3537296] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 17:53:03.871 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:03.901 HappyFunTimes[63877:3537296] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/21F6A7FA-74F8-403D-AA2F-422BA21A6AE5/HappyFunTimes.app/www/index.html
+2015-05-10 17:53:03.917 HappyFunTimes[63877:3537296] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/21F6A7FA-74F8-403D-AA2F-422BA21A6AE5/HappyFunTimes.app/www/
+2015-05-10 17:53:03.917 HappyFunTimes[63877:3537296] Started httpd on port 18679
+2015-05-10 17:53:03:917 HappyFunTimes[63877:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 17:53:03.919 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:03.936 HappyFunTimes[63877:3537296] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:53:07.965 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:07.980 HappyFunTimes[63877:3537296] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 17:53:08.506 HappyFunTimes[63877:3537296] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-05-10 17:53:08.506 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:08.521 HappyFunTimes[63877:3537296] Finished load of: http://192.168.0.25:18679/
+2015-05-10 17:53:08.554 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:08.577 HappyFunTimes[63877:3537296] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:53:41.782 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:53:41.811 HappyFunTimes[63877:3537296] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:55:10.902 HappyFunTimes[63877:3537296] Resetting plugins due to page load.
+2015-05-10 17:55:10.933 HappyFunTimes[63877:3537296] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 17:56:42.954 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.009033' ms. Plugin should use a background thread.
+2015-05-10 17:58:52.972 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.229980' ms. Plugin should use a background thread.
+2015-05-10 18:00:52.988 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.054688' ms. Plugin should use a background thread.
+2015-05-10 18:01:42.997 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.010010' ms. Plugin should use a background thread.
+2015-05-10 18:02:53.006 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.002930' ms. Plugin should use a background thread.
+2015-05-10 18:03:43.014 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.194092' ms. Plugin should use a background thread.
+2015-05-10 18:03:53.015 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.132080' ms. Plugin should use a background thread.
+2015-05-10 18:07:48.511 HappyFunTimes[63877:3537296] THREAD WARNING: ['YoikScreenOrientation'] took '10.065186' ms. Plugin should use a background thread.
+2015-05-10 19:01:12.774 HappyFunTimes[64288:3563592] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 19:01:12.775 HappyFunTimes[64288:3563592] Multi-tasking -> Device: YES, App: YES
+2015-05-10 19:01:12.776 HappyFunTimes[64288:3563592] Unlimited access to network resources
+2015-05-10 19:01:12.777 HappyFunTimes[64288:3563592] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 19:01:12.945 HappyFunTimes[64288:3563592] Resetting plugins due to page load.
+2015-05-10 19:01:12.976 HappyFunTimes[64288:3563592] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/B076A0ED-5A50-4630-9CD4-D1769A89A94C/HappyFunTimes.app/www/index.html
+2015-05-10 19:01:12.991 HappyFunTimes[64288:3563592] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/B076A0ED-5A50-4630-9CD4-D1769A89A94C/HappyFunTimes.app/www/
+2015-05-10 19:01:12.992 HappyFunTimes[64288:3563592] Started httpd on port 18679
+2015-05-10 19:01:12:992 HappyFunTimes[64288:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 19:01:12.994 HappyFunTimes[64288:3563592] Resetting plugins due to page load.
+2015-05-10 19:01:13.040 HappyFunTimes[64288:3563592] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 19:01:17.602 HappyFunTimes[64288:3563592] Resetting plugins due to page load.
+2015-05-10 19:01:17.616 HappyFunTimes[64288:3563592] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 19:01:18.140 HappyFunTimes[64288:3563592] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-05-10 19:01:18.140 HappyFunTimes[64288:3563592] Resetting plugins due to page load.
+2015-05-10 19:01:18.154 HappyFunTimes[64288:3563592] Finished load of: http://192.168.0.25:18679/
+2015-05-10 19:01:18.190 HappyFunTimes[64288:3563592] Resetting plugins due to page load.
+2015-05-10 19:01:18.215 HappyFunTimes[64288:3563592] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 19:10:00.826 HappyFunTimes[64481:3567864] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 19:10:00.827 HappyFunTimes[64481:3567864] Multi-tasking -> Device: YES, App: YES
+2015-05-10 19:10:00.828 HappyFunTimes[64481:3567864] Unlimited access to network resources
+2015-05-10 19:10:00.831 HappyFunTimes[64481:3567864] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 19:10:00.988 HappyFunTimes[64481:3567864] Resetting plugins due to page load.
+2015-05-10 19:10:01.018 HappyFunTimes[64481:3567864] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DEA6E35B-6F5D-4D05-BA8B-18566FE5F716/HappyFunTimes.app/www/index.html
+2015-05-10 19:10:01.035 HappyFunTimes[64481:3567864] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DEA6E35B-6F5D-4D05-BA8B-18566FE5F716/HappyFunTimes.app/www/
+2015-05-10 19:10:01.035 HappyFunTimes[64481:3567864] Started httpd on port 18679
+2015-05-10 19:10:01:035 HappyFunTimes[64481:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-10 19:10:01.037 HappyFunTimes[64481:3567864] Resetting plugins due to page load.
+2015-05-10 19:10:01.056 HappyFunTimes[64481:3567864] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 19:10:05.349 HappyFunTimes[64481:3567864] Resetting plugins due to page load.
+2015-05-10 19:10:05.365 HappyFunTimes[64481:3567864] Finished load of: http://192.168.0.25:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F127.0.0.1%3A18679%2F
+2015-05-10 19:10:05.888 HappyFunTimes[64481:3567864] Resetting plugins due to page load.
+2015-05-10 19:10:05.903 HappyFunTimes[64481:3567864] Finished load of: http://192.168.0.25:18679/
+2015-05-10 19:10:05.940 HappyFunTimes[64481:3567864] Resetting plugins due to page load.
+2015-05-10 19:10:05.966 HappyFunTimes[64481:3567864] Finished load of: http://192.168.0.25:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-10 19:31:02.764 HappyFunTimes[64941:3577847] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-10 19:31:02.768 HappyFunTimes[64941:3577847] Multi-tasking -> Device: YES, App: YES
+2015-05-10 19:31:02.777 HappyFunTimes[64941:3577847] Unlimited access to network resources
+2015-05-10 19:31:02.783 HappyFunTimes[64941:3577847] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-10 19:31:03.186 HappyFunTimes[64941:3577847] Resetting plugins due to page load.
+2015-05-10 19:31:03.256 HappyFunTimes[64941:3577847] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2C6A93A5-61EA-4284-9A73-864534F98B66/HappyFunTimes.app/www/index.html
+2015-05-10 19:31:03.286 HappyFunTimes[64941:3577847] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/2C6A93A5-61EA-4284-9A73-864534F98B66/HappyFunTimes.app/www/
+2015-05-10 19:31:03.287 HappyFunTimes[64941:3577847] Started httpd on port 18679
+2015-05-10 19:31:03:287 HappyFunTimes[64941:70b] HTTPServer: Started HTTP server on port 18679
+2015-05-11 00:51:55:355 HappyFunTimes[64941:6c5f] HTTP Server: Error 405 - Method Not Allowed: POST (/)
+2015-05-11 00:52:02:214 HappyFunTimes[64941:291f] HTTP Server: Error 405 - Method Not Allowed: POST (/)
+2015-05-11 00:52:17:151 HappyFunTimes[64941:2923] HTTP Server: Error 405 - Method Not Allowed: POST (/)
+2015-05-11 01:34:03:830 HappyFunTimes[64941:6c6b] HTTP Server: Error 405 - Method Not Allowed: POST (/)
+2015-05-11 02:37:52.294 HappyFunTimes[68265:3755579] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 02:37:52.295 HappyFunTimes[68265:3755579] Multi-tasking -> Device: YES, App: YES
+2015-05-11 02:37:52.296 HappyFunTimes[68265:3755579] Unlimited access to network resources
+2015-05-11 02:37:52.298 HappyFunTimes[68265:3755579] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 02:37:52.551 HappyFunTimes[68265:3755579] Resetting plugins due to page load.
+2015-05-11 02:37:52.594 HappyFunTimes[68265:3755579] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/0D20091D-00F2-42EA-9F9C-6EE265D0A61C/HappyFunTimes.app/www/index.html
+2015-05-11 02:37:52.618 HappyFunTimes[68265:3755579] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/0D20091D-00F2-42EA-9F9C-6EE265D0A61C/HappyFunTimes.app/www/
+2015-05-11 02:37:52:620 HappyFunTimes[68265:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7b7602d0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 02:37:52.620 HappyFunTimes[68265:3755579] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7b7602d0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 02:37:52.621 HappyFunTimes[68265:3755579] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/0D20091D-00F2-42EA-9F9C-6EE265D0A61C/HappyFunTimes.app/www/
+2015-05-11 02:37:52:621 HappyFunTimes[68265:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 02:37:52:621 HappyFunTimes[68265:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 02:37:52.622 HappyFunTimes[68265:3755579] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "192.168.64.124";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 02:37:52.622 HappyFunTimes[68265:3755579] Started httpd on port 18680
+2015-05-11 02:37:52.627 HappyFunTimes[68265:3755579] Resetting plugins due to page load.
+2015-05-11 02:37:52.660 HappyFunTimes[68265:3755579] Failed to load webpage with error: The network connection was lost.
+2015-05-11 18:44:04.679 HappyFunTimes[71653:4108621] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/8E4E6CE6-2EF8-48B8-9A8A-846C145364F7/Library/Cookies/Cookies.binarycookies
+2015-05-11 18:44:04.885 HappyFunTimes[71653:4108621] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 18:44:04.886 HappyFunTimes[71653:4108621] Multi-tasking -> Device: YES, App: YES
+2015-05-11 18:44:04.895 HappyFunTimes[71653:4108621] Unlimited access to network resources
+2015-05-11 18:44:04.904 HappyFunTimes[71653:4108621] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 18:44:05.863 HappyFunTimes[71653:4108621] Resetting plugins due to page load.
+2015-05-11 18:44:05.946 HappyFunTimes[71653:4108621] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/B0EDB971-163B-42D6-9BE8-BE4EAF373BB4/HappyFunTimes.app/www/index.html
+2015-05-11 18:44:05.981 HappyFunTimes[71653:4108621] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/B0EDB971-163B-42D6-9BE8-BE4EAF373BB4/HappyFunTimes.app/www/
+2015-05-11 18:44:05:982 HappyFunTimes[71653:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7aea6d80 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 18:44:05.982 HappyFunTimes[71653:4108621] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7aea6d80 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 18:44:05.984 HappyFunTimes[71653:4108621] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/B0EDB971-163B-42D6-9BE8-BE4EAF373BB4/HappyFunTimes.app/www/
+2015-05-11 18:44:05:984 HappyFunTimes[71653:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 18:44:05:984 HappyFunTimes[71653:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 18:44:05.985 HappyFunTimes[71653:4108621] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 18:44:05.985 HappyFunTimes[71653:4108621] Started httpd on port 18680
+2015-05-11 18:44:05.988 HappyFunTimes[71653:4108621] Resetting plugins due to page load.
+2015-05-11 19:05:00.593 HappyFunTimes[72020:4142032] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/C788514B-F10D-4C6A-B583-8CBE6AE1EA8B/Library/Cookies/Cookies.binarycookies
+2015-05-11 19:05:00.786 HappyFunTimes[72020:4142032] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 19:05:00.786 HappyFunTimes[72020:4142032] Multi-tasking -> Device: YES, App: YES
+2015-05-11 19:05:00.796 HappyFunTimes[72020:4142032] Unlimited access to network resources
+2015-05-11 19:05:00.802 HappyFunTimes[72020:4142032] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 19:05:01.277 HappyFunTimes[72020:4142032] Resetting plugins due to page load.
+2015-05-11 19:05:01.352 HappyFunTimes[72020:4142032] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/58D957ED-DFB3-4E17-ADDB-7531D82A5CC7/HappyFunTimes.app/www/index.html
+2015-05-11 19:05:01.387 HappyFunTimes[72020:4142032] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/58D957ED-DFB3-4E17-ADDB-7531D82A5CC7/HappyFunTimes.app/www/
+2015-05-11 19:05:01:388 HappyFunTimes[72020:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x78781ec0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 19:05:01.388 HappyFunTimes[72020:4142032] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x78781ec0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 19:05:01.391 HappyFunTimes[72020:4142032] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/58D957ED-DFB3-4E17-ADDB-7531D82A5CC7/HappyFunTimes.app/www/
+2015-05-11 19:05:01:391 HappyFunTimes[72020:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 19:05:01:391 HappyFunTimes[72020:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 19:05:01.392 HappyFunTimes[72020:4142032] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 19:05:01.392 HappyFunTimes[72020:4142032] Started httpd on port 18680
+2015-05-11 19:05:01.395 HappyFunTimes[72020:4142032] Resetting plugins due to page load.
+2015-05-11 19:06:16.466 HappyFunTimes[72020:4142032] Failed to load webpage with error: The request timed out.
+2015-05-11 19:59:30.124 HappyFunTimes[72517:4218795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/C1C18E5E-BC26-46FF-A7D5-7B2DDABE1536/Library/Cookies/Cookies.binarycookies
+2015-05-11 19:59:30.199 HappyFunTimes[72517:4218795] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 19:59:30.199 HappyFunTimes[72517:4218795] Multi-tasking -> Device: YES, App: YES
+2015-05-11 19:59:30.200 HappyFunTimes[72517:4218795] Unlimited access to network resources
+2015-05-11 19:59:30.202 HappyFunTimes[72517:4218795] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 19:59:30.478 HappyFunTimes[72517:4218795] Resetting plugins due to page load.
+2015-05-11 19:59:30.525 HappyFunTimes[72517:4218795] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/97643036-C05A-4BF7-9FA5-0FF2F2382137/HappyFunTimes.app/www/index.html
+2015-05-11 19:59:30.538 HappyFunTimes[72517:4218795] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/97643036-C05A-4BF7-9FA5-0FF2F2382137/HappyFunTimes.app/www/
+2015-05-11 19:59:30:539 HappyFunTimes[72517:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x79f871d0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 19:59:30.539 HappyFunTimes[72517:4218795] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x79f871d0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 19:59:30.540 HappyFunTimes[72517:4218795] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/97643036-C05A-4BF7-9FA5-0FF2F2382137/HappyFunTimes.app/www/
+2015-05-11 19:59:30:540 HappyFunTimes[72517:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 19:59:30:540 HappyFunTimes[72517:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 19:59:30.540 HappyFunTimes[72517:4218795] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 19:59:30.540 HappyFunTimes[72517:4218795] Started httpd on port 18680
+2015-05-11 19:59:30.542 HappyFunTimes[72517:4218795] Resetting plugins due to page load.
+2015-05-11 19:59:30.606 HappyFunTimes[72517:4218795] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F10.4.65.207%3A18680%2F
+2015-05-11 20:19:56.699 HappyFunTimes[72833:4245200] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/C525F4A3-931D-4016-8F27-439669F3180C/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:19:56.774 HappyFunTimes[72833:4245200] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:19:56.774 HappyFunTimes[72833:4245200] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:19:56.775 HappyFunTimes[72833:4245200] Unlimited access to network resources
+2015-05-11 20:19:56.777 HappyFunTimes[72833:4245200] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:19:57.039 HappyFunTimes[72833:4245200] Resetting plugins due to page load.
+2015-05-11 20:19:57.076 HappyFunTimes[72833:4245200] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/EE131E01-AE7F-46F4-A9E9-CEC4CC2C55AC/HappyFunTimes.app/www/index.html
+2015-05-11 20:19:57.092 HappyFunTimes[72833:4245200] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/EE131E01-AE7F-46F4-A9E9-CEC4CC2C55AC/HappyFunTimes.app/www/
+2015-05-11 20:19:57:093 HappyFunTimes[72833:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a0f4900 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:19:57.093 HappyFunTimes[72833:4245200] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a0f4900 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:19:57.093 HappyFunTimes[72833:4245200] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/EE131E01-AE7F-46F4-A9E9-CEC4CC2C55AC/HappyFunTimes.app/www/
+2015-05-11 20:19:57:094 HappyFunTimes[72833:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:19:57:094 HappyFunTimes[72833:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:19:57.094 HappyFunTimes[72833:4245200] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:19:57.094 HappyFunTimes[72833:4245200] Started httpd on port 18680
+2015-05-11 20:22:33.630 HappyFunTimes[73104:4251933] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/C6374C48-296D-4964-99A8-B66F64C2375D/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:22:33.690 HappyFunTimes[73104:4251933] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:22:33.690 HappyFunTimes[73104:4251933] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:22:33.691 HappyFunTimes[73104:4251933] Unlimited access to network resources
+2015-05-11 20:22:33.692 HappyFunTimes[73104:4251933] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:22:33.878 HappyFunTimes[73104:4251933] Resetting plugins due to page load.
+2015-05-11 20:22:33.909 HappyFunTimes[73104:4251933] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DE5F34AE-AE2F-4055-BACC-36D91BB8808E/HappyFunTimes.app/www/index.html
+2015-05-11 20:22:33.923 HappyFunTimes[73104:4251933] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DE5F34AE-AE2F-4055-BACC-36D91BB8808E/HappyFunTimes.app/www/
+2015-05-11 20:22:33:923 HappyFunTimes[73104:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7c43b6b0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:22:33.923 HappyFunTimes[73104:4251933] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7c43b6b0 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:22:33.924 HappyFunTimes[73104:4251933] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/DE5F34AE-AE2F-4055-BACC-36D91BB8808E/HappyFunTimes.app/www/
+2015-05-11 20:22:33:924 HappyFunTimes[73104:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:22:33:924 HappyFunTimes[73104:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:22:33.924 HappyFunTimes[73104:4251933] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:22:33.925 HappyFunTimes[73104:4251933] Started httpd on port 18680
+2015-05-11 20:25:23.878 HappyFunTimes[73362:4256446] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/7BC89FB9-7436-4A50-A6EC-BB3950253040/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:25:23.942 HappyFunTimes[73362:4256446] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:25:23.942 HappyFunTimes[73362:4256446] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:25:23.943 HappyFunTimes[73362:4256446] Unlimited access to network resources
+2015-05-11 20:25:23.944 HappyFunTimes[73362:4256446] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:25:24.133 HappyFunTimes[73362:4256446] Resetting plugins due to page load.
+2015-05-11 20:25:24.166 HappyFunTimes[73362:4256446] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D389979C-E6C0-4245-B617-53991CC7733B/HappyFunTimes.app/www/index.html
+2015-05-11 20:25:24.180 HappyFunTimes[73362:4256446] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D389979C-E6C0-4245-B617-53991CC7733B/HappyFunTimes.app/www/
+2015-05-11 20:25:24:181 HappyFunTimes[73362:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a669360 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:25:24.181 HappyFunTimes[73362:4256446] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7a669360 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:25:24.182 HappyFunTimes[73362:4256446] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D389979C-E6C0-4245-B617-53991CC7733B/HappyFunTimes.app/www/
+2015-05-11 20:25:24:182 HappyFunTimes[73362:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:25:24:182 HappyFunTimes[73362:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:25:24.182 HappyFunTimes[73362:4256446] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:25:24.182 HappyFunTimes[73362:4256446] Started httpd on port 18680
+2015-05-11 20:28:14.616 HappyFunTimes[73630:4261459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/5FA9591F-19F9-4FCB-BCBA-E2BFA6AD05CB/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:28:14.679 HappyFunTimes[73630:4261459] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:28:14.679 HappyFunTimes[73630:4261459] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:28:14.680 HappyFunTimes[73630:4261459] Unlimited access to network resources
+2015-05-11 20:28:14.681 HappyFunTimes[73630:4261459] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:28:14.868 HappyFunTimes[73630:4261459] Resetting plugins due to page load.
+2015-05-11 20:28:14.900 HappyFunTimes[73630:4261459] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D999BD3E-DF8B-4A05-A018-3DB6E0835A00/HappyFunTimes.app/www/index.html
+2015-05-11 20:28:14.915 HappyFunTimes[73630:4261459] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D999BD3E-DF8B-4A05-A018-3DB6E0835A00/HappyFunTimes.app/www/
+2015-05-11 20:28:14:916 HappyFunTimes[73630:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0xdc34b80 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:28:14.916 HappyFunTimes[73630:4261459] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0xdc34b80 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:28:14.917 HappyFunTimes[73630:4261459] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D999BD3E-DF8B-4A05-A018-3DB6E0835A00/HappyFunTimes.app/www/
+2015-05-11 20:28:14:917 HappyFunTimes[73630:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:28:14:917 HappyFunTimes[73630:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:28:14.917 HappyFunTimes[73630:4261459] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:28:14.917 HappyFunTimes[73630:4261459] Started httpd on port 18680
+2015-05-11 20:30:48.871 HappyFunTimes[73630:4265743] Terminating since there is no system app.
+2015-05-11 20:31:11.801 HappyFunTimes[73810:4267151] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/CA4134AC-0C85-4D94-AB54-A6750E9F45C0/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:31:11.871 HappyFunTimes[73810:4267151] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:31:11.872 HappyFunTimes[73810:4267151] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:31:11.873 HappyFunTimes[73810:4267151] Unlimited access to network resources
+2015-05-11 20:31:11.874 HappyFunTimes[73810:4267151] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:31:12.064 HappyFunTimes[73810:4267151] Resetting plugins due to page load.
+2015-05-11 20:31:12.098 HappyFunTimes[73810:4267151] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/877437AD-05D2-45A5-B5B6-BB3BCA6D975B/HappyFunTimes.app/www/index.html
+2015-05-11 20:31:12.114 HappyFunTimes[73810:4267151] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/877437AD-05D2-45A5-B5B6-BB3BCA6D975B/HappyFunTimes.app/www/
+2015-05-11 20:31:12:115 HappyFunTimes[73810:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7b293b30 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:31:12.115 HappyFunTimes[73810:4267151] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x7b293b30 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:31:12.115 HappyFunTimes[73810:4267151] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/877437AD-05D2-45A5-B5B6-BB3BCA6D975B/HappyFunTimes.app/www/
+2015-05-11 20:31:12:116 HappyFunTimes[73810:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:31:12:116 HappyFunTimes[73810:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:31:12.116 HappyFunTimes[73810:4267151] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:31:12.116 HappyFunTimes[73810:4267151] Started httpd on port 18680
+2015-05-11 20:32:16.255 HappyFunTimes[74123:4269904] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/BE1D16B6-8A09-4984-A99F-9A6675F76D5A/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:32:16.319 HappyFunTimes[74123:4269904] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:32:16.319 HappyFunTimes[74123:4269904] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:32:16.320 HappyFunTimes[74123:4269904] Unlimited access to network resources
+2015-05-11 20:32:16.321 HappyFunTimes[74123:4269904] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:32:16.505 HappyFunTimes[74123:4269904] Resetting plugins due to page load.
+2015-05-11 20:32:16.538 HappyFunTimes[74123:4269904] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D1681212-F1B0-416E-8EB6-1770BDD62D17/HappyFunTimes.app/www/index.html
+2015-05-11 20:32:16.555 HappyFunTimes[74123:4269904] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D1681212-F1B0-416E-8EB6-1770BDD62D17/HappyFunTimes.app/www/
+2015-05-11 20:32:16:555 HappyFunTimes[74123:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x79335a90 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:32:16.555 HappyFunTimes[74123:4269904] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x79335a90 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:32:16.556 HappyFunTimes[74123:4269904] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/D1681212-F1B0-416E-8EB6-1770BDD62D17/HappyFunTimes.app/www/
+2015-05-11 20:32:16:556 HappyFunTimes[74123:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:32:16:556 HappyFunTimes[74123:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:32:16.556 HappyFunTimes[74123:4269904] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:32:16.557 HappyFunTimes[74123:4269904] Started httpd on port 18680
+2015-05-11 20:32:16.558 HappyFunTimes[74123:4269904] Resetting plugins due to page load.
+2015-05-11 20:32:16.589 HappyFunTimes[74123:4269904] Finished load of: http://localhost:1337/?cordovaurl=http%3A%2F%2F10.4.65.207%3A18680%2F
+2015-05-11 20:32:28.069 HappyFunTimes[74123:4269904] Resetting plugins due to page load.
+2015-05-11 20:32:28.095 HappyFunTimes[74123:4269904] Finished load of: http://10.4.65.207:18679/enter-name.html?fromHFTNet=true&name=&cordovaurl=http%3A%2F%2F10.4.65.207%3A18680%2F
+2015-05-11 20:32:31.581 HappyFunTimes[74123:4269904] Resetting plugins due to page load.
+2015-05-11 20:32:31.600 HappyFunTimes[74123:4269904] Finished load of: http://10.4.65.207:18679/
+2015-05-11 20:32:31.646 HappyFunTimes[74123:4269904] Resetting plugins due to page load.
+2015-05-11 20:32:31.713 HappyFunTimes[74123:4269904] Finished load of: http://10.4.65.207:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-05-11 20:36:10.187 HappyFunTimes[74435:4277801] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/AFAB8054-08C2-47FD-ACB8-076CC4FE11BB/Library/Cookies/Cookies.binarycookies
+2015-05-11 20:36:10.252 HappyFunTimes[74435:4277801] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 20:36:10.252 HappyFunTimes[74435:4277801] Multi-tasking -> Device: YES, App: YES
+2015-05-11 20:36:10.253 HappyFunTimes[74435:4277801] Unlimited access to network resources
+2015-05-11 20:36:10.255 HappyFunTimes[74435:4277801] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 20:36:10.440 HappyFunTimes[74435:4277801] Resetting plugins due to page load.
+2015-05-11 20:36:10.473 HappyFunTimes[74435:4277801] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5B5BE734-0B59-4B63-A40A-1186033DDE21/HappyFunTimes.app/www/index.html
+2015-05-11 20:36:10.489 HappyFunTimes[74435:4277801] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5B5BE734-0B59-4B63-A40A-1186033DDE21/HappyFunTimes.app/www/
+2015-05-11 20:36:10:490 HappyFunTimes[74435:70b] HTTPServer: Failed to start HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x78e77260 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:36:10.490 HappyFunTimes[74435:4277801] Error starting httpd: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo=0x78e77260 {NSLocalizedFailureReason=Error in bind() function, NSLocalizedDescription=Address already in use}
+2015-05-11 20:36:10.490 HappyFunTimes[74435:4277801] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/5B5BE734-0B59-4B63-A40A-1186033DDE21/HappyFunTimes.app/www/
+2015-05-11 20:36:10:491 HappyFunTimes[74435:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:36:10:491 HappyFunTimes[74435:70b] HTTPServer: Started HTTP server on port 18680
+2015-05-11 20:36:10.491 HappyFunTimes[74435:4277801] addresses: {
+    "awdl0/ipv6" = "fe80::e019:abff:fe3e:dcc7";
+    "en0/ipv4" = "10.4.65.207";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+    "utun0/ipv6" = "fe80::d689:1f0d:6a9:4ec9";
+    "utun1/ipv6" = "fe80::431a:be7c:3642:98b0";
+    "vboxnet0/ipv4" = "192.168.33.1";
+}
+2015-05-11 20:36:10.491 HappyFunTimes[74435:4277801] Started httpd on port 18680

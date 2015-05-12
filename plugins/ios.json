@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"YoikScreenOrientation\"><param name=\"ios-package\" value=\"YoikScreenOrientation\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"CorHttpd\"><param name=\"ios-package\" value=\"CorHttpd\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "*-Info.plist": {
+                "parents": {
+                    "CFBundleURLTypes": [
+                        {
+                            "xml": "<array><dict><key>CFBundleURLSchemes</key><array><string>happyfuntimes</string></array></dict></array>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "framework": {
+                "parents": {
+                    "CFNetwork.framework": [
+                        {
+                            "xml": false,
+                            "count": 1
+                        }
+                    ],
+                    "Foundation.framework": [
+                        {
+                            "xml": false,
+                            "count": 1
+                        }
+                    ],
+                    "Security.framework": [
+                        {
+                            "xml": false,
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.greggman.happyFunTimes"
+        },
+        "net.yoik.cordova.plugins.screenorientation": {
+            "PACKAGE_NAME": "com.greggman.happyFunTimes"
+        },
+        "nl.x-services.plugins.launchmyapp": {
+            "URL_SCHEME": "happyfuntimes",
+            "PACKAGE_NAME": "com.greggman.happyFunTimes"
+        },
+        "com.rjfun.cordova.httpd": {
+            "PACKAGE_NAME": "com.greggman.happyFunTimes"
+        }
+    },
+    "dependent_plugins": {}
+}

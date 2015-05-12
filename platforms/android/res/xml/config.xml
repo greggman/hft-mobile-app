@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.greggman.happyFunTimes" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="YoikScreenOrientation">
+        <param name="android-package" value="net.yoik.cordova.plugins.screenorientation.YoikScreenOrientation" />
+    </feature>
+    <feature name="LaunchMyApp">
+        <param name="android-package" value="nl.xservices.plugins.LaunchMyApp" />
+    </feature>
+    <feature name="CorHttpd">
+        <param name="android-package" value="com.rjfun.cordova.httpd.CorHttpd" />
+    </feature>
+    <name>HappyFunTimes</name>
+    <description>
+        An app for HappyFunTimes controllers
+    </description>
+    <author email="happyfuntimes@greggman.com" href="http://docs.happyfuntimes.net">
+        HappyFunTimes Team
+    </author>
+    <content src="index.html" />
+    <preference name="permissions" value="none" />
+    <preference name="orientation" value="default" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="true" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="stay-in-webview" value="false" />
+    <preference name="ios-statusbarstyle" value="black-opaque" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="disable-cursor" value="false" />
+    <preference name="android-minSdkVersion" value="10" />
+    <preference name="android-installLocation" value="auto" />
+    <preference name="SplashScreenDelay" value="1000" />
+    <gap:plugin name="org.apache.cordova.camera" />
+    <gap:plugin name="org.apache.cordova.media-capture" />
+    <gap:plugin name="org.apache.cordova.console" />
+    <gap:plugin name="org.apache.cordova.geolocation" />
+    <gap:plugin name="org.apache.cordova.globalization" />
+    <gap:plugin name="org.apache.cordova.media" />
+    <gap:plugin name="org.apache.cordova.splashscreen" />
+    <gap:plugin name="org.apache.cordova.vibration" />
+    <icon src="icon.png" />
+    <splash src="www/res/screen/splash.png" />
+    <gap:plugin name="nl.x-services.plugins.launchmyapp">
+        <param name="URL_SCHEME" value="happyfuntimes" />
+    </gap:plugin>
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
