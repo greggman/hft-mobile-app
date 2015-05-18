@@ -27,6 +27,20 @@ module.exports = [
         "clobbers": [
             "cordova.plugins.CorHttpd"
         ]
+    },
+    {
+        "file": "plugins/nl.x-services.plugins.insomnia/www/Insomnia.js",
+        "id": "nl.x-services.plugins.insomnia.Insomnia",
+        "clobbers": [
+            "window.plugins.insomnia"
+        ]
+    },
+    {
+        "file": "plugins/cordova-plugin-statusbar/www/statusbar.js",
+        "id": "cordova-plugin-statusbar.statusbar",
+        "clobbers": [
+            "window.StatusBar"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -35,7 +49,9 @@ module.exports.metadata =
     "cordova-plugin-whitelist": "1.0.1-dev",
     "net.yoik.cordova.plugins.screenorientation": "1.3.2",
     "nl.x-services.plugins.launchmyapp": "3.2.2",
-    "com.rjfun.cordova.httpd": "0.9.2"
+    "com.rjfun.cordova.httpd": "0.9.2",
+    "nl.x-services.plugins.insomnia": "4.0.1",
+    "cordova-plugin-statusbar": "1.0.0"
 }
 // BOTTOM OF METADATA
 });

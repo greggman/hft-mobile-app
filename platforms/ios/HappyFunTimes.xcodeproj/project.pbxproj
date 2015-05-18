@@ -70,6 +70,8 @@
 		7BFC9C1A3CEE47BA86E74961 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 761EB83DF7FD45B584163E71 /* CFNetwork.framework */; };
 		BD98ED0BEF914FF3891FAAC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 137542EC1D2D4153A98C2C7D /* Foundation.framework */; };
 		98D43D4F64DB49F69FA09920 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7C5A0A4CD454A988C885911 /* Security.framework */; };
+		7D00CF3B7866446C9B080E3C /* Insomnia.m in Sources */ = {isa = PBXBuildFile; fileRef = 773A4053F6294D7983D1C8C4 /* Insomnia.m */; };
+		3FD2940E5C6448DD8165C0B8 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 0784AD6A4F264CF78661DF5D /* CDVStatusBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -191,6 +193,10 @@
 		761EB83DF7FD45B584163E71 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CFNetwork.framework"; path = "System/Library/Frameworks/CFNetwork.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		137542EC1D2D4153A98C2C7D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		F7C5A0A4CD454A988C885911 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Security.framework"; path = "System/Library/Frameworks/Security.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		773A4053F6294D7983D1C8C4 /* Insomnia.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Insomnia.m"; path = "nl.x-services.plugins.insomnia/Insomnia.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		31A09D63680A4AC08568E14D /* Insomnia.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Insomnia.h"; path = "nl.x-services.plugins.insomnia/Insomnia.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		0784AD6A4F264CF78661DF5D /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "cordova-plugin-statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		6DF68F8D1DC143C5824FB513 /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "cordova-plugin-statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -350,6 +356,10 @@
 				76081442B4CA4535BAEC661C /* DDLog.h */,
 				894191F7C0924E0882E968E4 /* ContextFilterLogFormatter.h */,
 				B2BAAE685E484234B637E6FD /* DispatchQueueLogFormatter.h */,
+				773A4053F6294D7983D1C8C4 /* Insomnia.m */,
+				31A09D63680A4AC08568E14D /* Insomnia.h */,
+				0784AD6A4F264CF78661DF5D /* CDVStatusBar.m */,
+				6DF68F8D1DC143C5824FB513 /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = HappyFunTimes/Plugins;
@@ -567,6 +577,8 @@
 				D3DBF9576A704982BC352825 /* DDLog.m in Sources */,
 				AC04A1B861C248E58CB898DB /* ContextFilterLogFormatter.m in Sources */,
 				12844796BF2B44B489EE7FA7 /* DispatchQueueLogFormatter.m in Sources */,
+				7D00CF3B7866446C9B080E3C /* Insomnia.m in Sources */,
+				3FD2940E5C6448DD8165C0B8 /* CDVStatusBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
