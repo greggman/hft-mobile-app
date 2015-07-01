@@ -3813,3 +3813,108 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-18 19:42:41.440 HappyFunTimes[20145:721144] Finished load of: http://172.16.101.166:18679/
 2015-05-18 19:42:44.482 HappyFunTimes[20145:721144] Resetting plugins due to page load.
 2015-05-18 19:42:44.502 HappyFunTimes[20145:721144] Finished load of: http://172.16.101.166:18679/games/(_Users_gregg_src_hft-apptest)hft-apptest/index.html
+2015-07-02 03:32:49.648 HappyFunTimes[8206:379540] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Data/Application/2B37DBC2-91C4-494E-BD56-8C449D823884/Library/Cookies/Cookies.binarycookies
+2015-07-02 03:32:49.840 HappyFunTimes[8206:379540] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-02 03:32:49.840 HappyFunTimes[8206:379540] Multi-tasking -> Device: YES, App: YES
+2015-07-02 03:32:49.849 HappyFunTimes[8206:379540] Unlimited access to network resources
+2015-07-02 03:32:49.855 HappyFunTimes[8206:379540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-02 03:32:50.252 HappyFunTimes[8206:379540] [CDVTimer][statusbar] 76.058984ms
+2015-07-02 03:32:50.252 HappyFunTimes[8206:379540] [CDVTimer][TotalPluginStartup] 76.620996ms
+2015-07-02 03:32:50.769 HappyFunTimes[8206:379540] Resetting plugins due to page load.
+2015-07-02 03:32:50.852 HappyFunTimes[8206:379540] Finished load of: file:///Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/BC6FF64B-4827-480F-8294-902FB0AB1D72/HappyFunTimes.app/www/index.html
+2015-07-02 03:32:50.894 HappyFunTimes[8206:379540] Setting document root: /Users/gregg/Library/Developer/CoreSimulator/Devices/18D4D879-3229-4B2F-8410-40ECD91693C5/data/Containers/Bundle/Application/BC6FF64B-4827-480F-8294-902FB0AB1D72/HappyFunTimes.app/www/
+2015-07-02 03:32:50:896 HappyFunTimes[8206:70b] HTTPServer: Started HTTP server on port 18679
+2015-07-02 03:32:50.896 HappyFunTimes[8206:379540] addresses: {
+    "awdl0/ipv6" = "fe80::20c3:c4ff:fe38:2f2a";
+    "en0/ipv4" = "192.168.179.4";
+    "en0/ipv6" = "fe80::3636:3bff:fecc:15b6";
+    "lo0/ipv4" = "127.0.0.1";
+    "lo0/ipv6" = "fe80::1";
+}
+2015-07-02 03:32:50.896 HappyFunTimes[8206:379540] Started httpd on port 18679
+2015-07-02 03:32:51.402 HappyFunTimes[8206:379540] Resetting plugins due to page load.
+2015-07-02 03:32:52.687 HappyFunTimes[8206:379540] Finished load of: http://happyfuntimes.net/?cordovaurl=http%3A%2F%2F192.168.179.4%3A18679%2F&restarturl=file%3A%2F%2F%2FUsers%2Fgregg%2FLibrary%2FDeveloper%2FCoreSimulator%2FDevices%2F18D4D879-3229-4B2F-8410-40ECD91693C5%2Fdata%2FContainers%2FBundle%2FApplication%2FBC6FF64B-4827-480F-8294-902FB0AB1D72%2FHappyFunTimes.app%2Fwww%2Findex.html
+2015-07-02 03:32:52:688 HappyFunTimes[8206:2603] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:32:54:210 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:32:56:688 HappyFunTimes[8206:420b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:32:58:456 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:00:559 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:02:512 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:04:544 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:06:505 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:08:229 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:10:675 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:12:466 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:14:561 HappyFunTimes[8206:420b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:16:314 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:18:645 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:20:459 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:22:573 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:24:511 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:26:525 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:28:544 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:30:525 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:32:524 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:34:514 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:36:515 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:38:470 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:40:510 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:42:543 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:44:524 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:46:509 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:48:543 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:50:524 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:52:524 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:54:494 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:56:526 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:33:58:529 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:00:526 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:02:497 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:04:502 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:06:529 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:08:533 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:10:228 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:12:611 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:14:489 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:16:542 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:18:439 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:20:206 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:22:698 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:24:388 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:26:582 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:28:509 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:30:206 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:32:685 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:34:441 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:36:522 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:38:205 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:40:291 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:42:346 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:44:602 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:46:204 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:47:223 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:49:689 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:51:447 HappyFunTimes[8206:2e03] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:53:473 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:55:540 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:57:521 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:34:59:532 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:01:484 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:03:540 HappyFunTimes[8206:420f] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:05:520 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:07:529 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:09:532 HappyFunTimes[8206:2607] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:11:205 HappyFunTimes[8206:2e07] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:13:403 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:15:491 HappyFunTimes[8206:2e07] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:17:377 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:19:557 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:21:454 HappyFunTimes[8206:2903] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)
+2015-07-02 03:35:23:570 HappyFunTimes[8206:571b] HTTP Server: Error 405 - Method Not Allowed: OPTIONS (/)

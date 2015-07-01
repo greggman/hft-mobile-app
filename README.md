@@ -27,8 +27,8 @@ This is an attempt at creating a mobile app for HappyFunTimes
 
 *   Can force an orientation
 
-    There's supposed to be an HTML5 api for this too but it's not available
-    anywhere AFAIK as of 5/5/2015
+    Android Chrome can already do this ones it goes fullscreen.
+    iOS no such luck.
 
 ### Reason to **NOT** have an app
 
@@ -43,9 +43,9 @@ This is an attempt at creating a mobile app for HappyFunTimes
     and they are magically connected to your game. On Android they can
     go to any URL and they'll be taken to your game.
 
-    But, with an users will need access to the internet to download the app
+    But, with an app users will need access to the internet to download the app
     so can't let HappyFunTimes override all networking since users won't
-    have internet access and therefore won't be able to download the app
+    have internet access and therefore won't be able to download the app.
 
 *   There may be lots of network traffic
 
@@ -84,5 +84,15 @@ I've only built on OSX so far
    * Download the android SDK
    * run `<android-sdk>/tools/android update sdk --no-ui` (downloads buttloads!)
    * add `<android-sdk>/platform-tools:<android-sdk>/tools:<ant>/bin` to your PATH
+   * `export SDK_PATH=<android-sdk>`
    * `export ANT_HOME=<ant>`
 
+With all that setup you should be able to type
+
+    phonegap build ios
+    phonegap run ios
+
+    phonegap build android
+    phonegap run android
+
+The app will connect to http://happyfuntimes.net immediately when it starts
